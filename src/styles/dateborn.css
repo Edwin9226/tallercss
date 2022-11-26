@@ -1,0 +1,26 @@
+.cuadrado {
+    height: 50px;
+    width: 80%;
+    display: flex;
+    align-items: center;
+    position: absolute;
+    padding: 0.5rem 0rem;
+    background-color: rgb(61, 70, 140);
+    color: black;
+    box-shadow: 0 2px 2px 2px rgba(9, 9, 9, 0.23);
+    top: 20%;
+    left: 10%;
+    border-radius: 10%;
+  }
+  
+  .hijo1 {
+    
+    margin: 0 auto;
+    height:50px;
+    width:10px;
+  }
+  .hijo2{
+    margin: 0 auto;
+    height:50px;
+    width:50px;
+  }
