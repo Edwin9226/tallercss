@@ -1,0 +1,29 @@
+:root {
+    --monserrat: https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap;
+  }
+.footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(251, 249, 249);
+    color: black;
+  }
+  
+  .p{
+    position: absolute;
+    width: 512px;
+    height: 13px;
+    left: center;
+    top: 225px;
+
+    font-style: var(--monserrat);
+    font-weight: 220;
+    font-size: 10px;
+    line-height: 24px;
+
+    text-align: center;
+    letter-spacing: -0.015em;
+
+color: rgba(0, 0, 0, 0.8);
+
+  }
