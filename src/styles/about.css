@@ -1,0 +1,63 @@
+:root {
+    --monserrat: https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap;
+  }
+
+  *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open sans';
+}
+
+body{
+   
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-size: 15px;
+}
+
+.nombre{
+    position: absolute;
+    left: 37.96%;
+    right: -4.94%;
+    top: 20.1%;
+    bottom: 47.99%;
+    
+    /* Sub-page H1 */
+    
+    font-family: var(--monserrat);
+    font-style: normal;
+    font-weight: 150;
+    font-size: 20px;
+    line-height: 90px;
+    /* or 150% */
+    
+    text-align: left;
+    letter-spacing: -0.015em;
+    
+    color: #000000;
+}
+.des{
+    position: absolute;
+width: 400px;
+height: 30px;
+left: 160px;
+top: 120px;
+
+/* Body P */
+
+font-family: var(--monserrat);
+font-style: normal;
+font-weight: 110;
+font-size: 13px;
+line-height: 30px;
+/* or 167% */
+
+letter-spacing: -0.015em;
+
+color: rgba(0, 0, 0, 0.8);
+
+
+}
