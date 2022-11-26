@@ -1,0 +1,18 @@
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+
+.calcular {
+  width: 350px;
+  height: 180px;
+  border-radius: 25%;
+  background: rgb(36, 124, 37);
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
+  position: center;
+  border: 2px solid black;
+  text-align:center;
+}
+
