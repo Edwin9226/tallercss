@@ -7,6 +7,7 @@ import Profile from './pages/Profile';
 import ClockPage from './pages/ClockPage';
 import Calculadora from './pages/Calculadora';
 import ImcCalculadora from './pages/ImcCalculadora'; 
+import 'bootstrap/dist/css/bootstrap.min.css';
 function App() {
   
   return (

@@ -1,47 +1,24 @@
-:root {
-    --monserrat: https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap;
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&family=Montserrat&display=swap');
+  
+  .home{
+    margin: 80px 320px;
   }
-.hwel{
-    position: absolute;
-    left: 19.52%;
-    right: 13.5%;
-    top: 28.39%;
-    bottom: 52.7%;
-
-    /* Sub-page H1 */
-
-font-family: var(--monserrat);
-font-style: normal;
-font-weight: 400;
-font-size: 20px;
-line-height: 72px;
-/* or 150% */
-
-text-align: center;
-letter-spacing: -0.015em;
-
-color: #000000;
-}
-.p1{
-    position: absolute;
-    left: 16.9%;
-    right: 7.95%;
-    top: 52.01%;
-    bottom: 32.84%;
-    
-    /* Body P Large */
-    
-    font-family: var(--monserrat);
+  .descripcion, .home{
+    font-family: 'Montserrat', sans-serif;
     font-style: normal;
     font-weight: 400;
-    font-size: 18px;
-    line-height: 20px;
-    /* or 139% */
-    
     text-align: center;
+  }
+  .title{
+    font-size: 48px;
+    line-height: 72px;
+  }
+  .descripcion{
+    font-size: 36px;
+    line-height: 50px;
     letter-spacing: -0.015em;
-    
     color: rgba(0, 0, 0, 0.8);
-
-
-}
+    margin-top: 50px;
+  }
+  
+  
