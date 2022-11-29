@@ -3,14 +3,13 @@ import Container from "react-bootstrap/Container";
 import Navbar from "react-bootstrap/Navbar";
 import Nav from "react-bootstrap/Nav";
 import "../styles/navbar.css";
-import { Link, NavLink } from "react-router-dom";
-import NavDropdown from "react-bootstrap/NavDropdown";
-import krugerstar from "../img/krugerstar.png";
+import { Link } from "react-router-dom";
+
 import Offcanvas from "react-bootstrap/Offcanvas";
 
 
 const Navbare = () => {
-  let activeClassName = "active";
+
   return (
    
       <>
