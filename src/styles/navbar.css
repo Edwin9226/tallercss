@@ -51,26 +51,6 @@
     margin: 0 50px;
     color:rgba(0, 0, 0, 0.5);
   }
-.brand-name {
-
-    text-decoration: none;
-    color: black;
-
-    margin-left: 1rem;
-
-    font-family: var(--comforta);
-
-    font-style: normal;
-    font-weight: 400;
-    font-size: 20px;
-    line-height: 7px;
-    display: flex;
-    align-items: center;
-    text-align: center;
-    letter-spacing: -0.015em;
-
-    color: #000000;
-}
 
 
 
