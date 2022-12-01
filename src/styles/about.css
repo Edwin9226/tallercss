@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&family=Montserrat&display=swap');
+.contenedor-about{
+    display: flex;
+    flex-direction: row;
+    margin: 100px 150px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+}
+.contenedor-about img{
+    width: 350px;
+    height: 350px;
+}
+.contenedor-des{
+    margin-left: 100px;
+}
+.about-title{
+    font-size: 48px;
+    line-height: 72px;
+    text-align: center;
+    letter-spacing: -0.015em;
+    color: #000000;
+}
+.about-des{
+    margin-top: 50px;
+    font-size: 19px;
+    line-height: 30px;
+    letter-spacing: -0.015em;
+    color: rgba(0, 0, 0, 0.8);
+}

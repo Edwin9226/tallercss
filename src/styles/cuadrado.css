@@ -1,0 +1,38 @@
+.cuadro {
+    height: 70px;
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: absolute;
+    padding: 0.5rem 0rem;
+    background-color: rgb(206, 208, 221);
+    color: black;
+    box-shadow: 0 2px 2px 2px rgba(9, 9, 9, 0.23);
+    top: 110%;
+    left: 10%;
+ 
+  }
+  
+  .hijo1 {
+    height:50px;
+    width:50px;
+    background-color: rgb(37, 55, 169);
+    box-shadow: 0 2px 2px 2px rgba(9, 9, 9, 0.23);
+    justify-content: space-around;
+    
+  }
+  .hijo2 {
+    height:50px;
+    width:50px;
+    background-color: rgb(37, 55, 169);
+    box-shadow: 0 2px 2px 2px rgba(9, 9, 9, 0.23);
+    justify-content: space-between;
+  }
+  .hijo3 {
+    height:50px;
+    width:50px;
+    background-color: rgb(37, 55, 169);
+    box-shadow: 0 2px 2px 2px rgba(9, 9, 9, 0.23);
+    justify-content: space-around;
+  }
